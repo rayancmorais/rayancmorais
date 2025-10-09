@@ -1,6 +1,6 @@
 ### **Hi!** 👋 I'm Rayan Morais, a Full-Stack Developer focused on building robust digital solutions.
 
-My passion for both front-end and back-end development allows me to create complete and efficient applications. I have a strong understanding of **UI/UX design** principles and can both create original designs in **Figma** and build websites from existing Figma files. With **JavaScript** and **Node.js**, I ensure dynamic and reusable interfaces through **componentization**, using **Styled Components** and **Tailwind CSS** for clean styling.
+My passion for both front-end and back-end development allows me to create complete and efficient applications. I have a strong understanding of **UI/UX design** principles and can both create original designs in **Figma** and build websites from existing Figma files. With **JavaScript/TypeScript** and **Node.js**, I ensure dynamic and reusable interfaces through **componentization**, using **Styled Components** and **Tailwind CSS** for clean styling.
 
 On the front end, I build fluid experiences with **ReactJS** and **React Native**, mastering hooks like `useState`, `useEffect`, `useContext`, and `useReducer` to manage application state effectively. On the back end, I construct powerful **APIs** with **Express** and manage data with **MongoDB**. I use **Postman** to test and validate API functionality.
 
