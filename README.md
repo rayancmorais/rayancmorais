@@ -8,11 +8,11 @@ Currently, I'm a **Software Engineering student**, which deepens my technical ex
 
 I'm fluent in both Portuguese and English, always open to feedback, and eager to collaborate on innovative projects.
 
-* 🌱 I’m currently learning back-end technologies in my Software Engineering program.
+* 🌱 I’m currently developing a private game.
 
 * 👯 I’m looking to collaborate on projects involving modern web and mobile development.
 
-* 🤔 I’m looking for help with new opportunities to apply my skills.
+* 🤔 I’m looking for new opportunities to apply my skills.
 
 * 💬 Ask me about full-stack development.
 
