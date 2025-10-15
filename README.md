@@ -1,12 +1,42 @@
 ### **Hi!** 👋 I'm Rayan Morais, a Full-Stack Developer.
 
-My passion for both front-end and back-end development allows me to create complete and efficient applications. I have a strong understanding of **UI/UX design** principles and can both create original designs in **Figma** and build websites from existing Figma files. With **JavaScript/TypeScript** and **Node.js**, I ensure dynamic and reusable interfaces through **componentization**, using **Styled Components** and **Tailwind CSS** for clean styling.
+# 🚀 Career Focus & Core Skills
 
-On the front end, I build fluid experiences with **ReactJS** and **React Native**, mastering hooks like `useState`, `useEffect`, `useContext`, and `useReducer` to manage application state effectively. On the back end, I construct powerful **APIs** with **Express** and manage data with **MongoDB**. I use **Postman** to test and validate API functionality.
+I am a **driven Software Engineering student** actively seeking an **internship** or **junior position** to launch my professional career.
 
-Currently, I'm a **Software Engineering student**, which deepens my technical expertise and prepares me for increasingly complex industry challenges.
+I bring a **robust technical foundation** and a genuine enthusiasm for learning and adhering to **industry best practices**. I genuinely **thrive on teamwork** and am enthusiastic about contributing my skills while absorbing knowledge from experienced mentors.
 
-I'm fluent in both Portuguese and English, always open to feedback, and eager to collaborate on innovative projects.
+---
+
+## 💻 Full-Stack Technical Experience
+
+I enjoy working across the entire stack, particularly where **design meets functionality**.
+
+### Front-End & UI/UX
+
+I have practical experience translating concepts from **Figma** into responsive, dynamic **user interfaces** using modern frameworks:
+
+* **React**
+* **Next.js**
+* **React Native**
+
+I focus on creating **reusable components** and utilizing utilities like **Tailwind CSS** for clean, scalable styling.
+
+### Back-End & Data Management
+
+For the back end, I have built and tested services using **Node.js** with **Express**. I'm familiar with data management in both:
+
+* **Relational** databases (**PostgreSQL**)
+* **Non-relational** databases (**MongoDB**)
+
+I ensure the reliability of my endpoints through dedicated **testing** with **Postman**.
+
+---
+
+## 🌐 Communication & Collaboration
+
+I'm **fluent in both Portuguese and English**, and I am ready to collaborate effectively and help drive innovative projects forward.
+
 
 * 🌱 I’m currently developing a private game.
 
