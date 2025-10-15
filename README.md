@@ -1,4 +1,4 @@
-### **Hi!** 👋 I'm Rayan Morais, a Full-Stack Developer focused on building robust digital solutions.
+### **Hi!** 👋 I'm Rayan Morais, a Full-Stack Developer.
 
 My passion for both front-end and back-end development allows me to create complete and efficient applications. I have a strong understanding of **UI/UX design** principles and can both create original designs in **Figma** and build websites from existing Figma files. With **JavaScript/TypeScript** and **Node.js**, I ensure dynamic and reusable interfaces through **componentization**, using **Styled Components** and **Tailwind CSS** for clean styling.
 
