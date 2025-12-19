@@ -1,61 +1,58 @@
-### **Hi!** 👋 I'm Rayan Morais, a Full-Stack Developer.
+# Hi there! 👋 I'm Rayan Morais
 
-# 🚀 Career Focus & Core Skills
-
-I am a **driven Software Engineering student** actively seeking an **internship** or **junior position** to launch my professional career.
-
-I bring a **robust technical foundation** and a genuine enthusiasm for learning and adhering to **industry best practices**. I genuinely **thrive on teamwork** and am enthusiastic about contributing my skills while absorbing knowledge from experienced mentors.
+<p align="center">
+  <a href="#english">English 🇺🇸</a> • 
+  <a href="#portuguese">Português 🇧🇷</a>
+</p>
 
 ---
 
-## 💻 Full-Stack Technical Experience
+<a name="english"></a>
+## 🇺🇸 English Version
 
+### 🚀 Career Focus & Core Skills
+I am a **driven Software Engineering student** actively seeking an **internship or junior position** to launch my professional career. I bring a robust technical foundation and a genuine enthusiasm for learning and adhering to industry best practices. I thrive on teamwork and am enthusiastic about contributing my skills while absorbing knowledge from experienced mentors.
+
+### 💻 Full-Stack Technical Experience
 I enjoy working across the entire stack, particularly where **design meets functionality**.
 
-### Front-End & UI/UX
-
-I have practical experience translating concepts from **Figma** into responsive, dynamic **user interfaces** using modern frameworks:
-
-* **React**
-* **Next.js**
-* **React Native**
-
-I focus on creating **reusable components** and utilizing utilities like **Tailwind CSS** for clean, scalable styling.
-
-### Back-End & Data Management
-
-For the back end, I have built and tested services using **Node.js** with **Express**. I'm familiar with data management in both:
-
-* **Relational** databases (**PostgreSQL**)
-* **Non-relational** databases (**MongoDB**)
-
-I ensure the reliability of my endpoints through dedicated **testing** with **Postman**.
+* **Front-End & UI/UX:** Practical experience translating **Figma** prototypes into responsive interfaces using **React, Next.js, and React Native**. I focus on reusable components and **Tailwind CSS** for scalable styling.
+* **Back-End & Data Management:** Built services using **Node.js & Express**. Experienced with **PostgreSQL** (Relational) and **MongoDB** (NoSQL), ensuring reliability through dedicated testing with **Postman**.
+* **DevOps & Quality:** Knowledge in **GitLab CI/CD** and **Jest** for robust code delivery.
 
 ---
 
-## 🌐 Communication & Collaboration
+<a name="portuguese"></a>
+## 🇧🇷 Versão em Português
 
-I'm **fluent in both Portuguese and English**, and I am ready to collaborate effectively and help drive innovative projects forward.
+### 🚀 Foco de Carreira & Competências
+Sou um **estudante de Engenharia de Software** motivado, buscando ativamente um **estágio ou posição júnior**. Possuo uma base técnica sólida e entusiasmo em seguir as melhores práticas do mercado. Acredito no trabalho em equipe e estou ansioso para contribuir com minhas habilidades enquanto absorvo conhecimento de mentores experientes.
 
+### 💻 Experiência Técnica Full-Stack
+Gosto de atuar em todo o stack, especialmente onde o **design encontra a funcionalidade**.
 
-* 🌱 I’m currently developing a private game.
-
-* 👯 I’m looking to collaborate on projects involving modern web and mobile development.
-
-* 🤔 I’m looking for new opportunities to apply my skills.
-
-* 💬 Ask me about full-stack development.
-
-* 📫 How to reach me: rayan_cm2021@icloud.com
-
-* 😄 Pronouns: He/Him
-
-* ⚡ Fun fact: I have a passion for **UI/UX design** and a good eye for detail!
+* **Front-End & UI/UX:** Experiência prática traduzindo protótipos do **Figma** em interfaces responsivas usando **React, Next.js e React Native**. Foco em componentes reutilizáveis e **Tailwind CSS**.
+* **Back-End & Gestão de Dados:** Desenvolvimento de serviços com **Node.js e Express**. Familiaridade com **PostgreSQL** (Relacional) e **MongoDB** (NoSQL), garantindo endpoints confiáveis através de testes no **Postman**.
+* **DevOps & Qualidade:** Conhecimentos em **GitLab CI/CD** e testes com **Jest** para entregas de código robustas.
 
 ---
 
-🤝 **Let's Connect:**
+### 🌐 Beyond Coding / Além do Código
 
-* 🔗 [Visit my portfolio](https://rayancmorais.com.br)
-* 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/rayancmorais)
-* 📧 [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com)
+* 🌱 **Currently developing:** A private game project / *Desenvolvendo um projeto de jogo privado.*
+* 👯 **Looking to collaborate on:** Modern web and mobile projects / *Buscando colaborar em projetos web e mobile modernos.*
+* 💬 **Ask me about:** Full-stack development & UI/UX / *Pergunte-me sobre desenvolvimento full-stack e UI/UX.*
+* ⚡ **Fun fact:** I have a passion for detail and pixel-perfect design! / *Tenho paixão por detalhes e design pixel-perfect!*
+
+### 🤝 Let's Connect / Vamos nos conectar:
+
+| Link | Contact |
+| :--- | :--- |
+| **Portfolio** | [Visit my Website](http://www.rayancmorais.com.br) |
+| **LinkedIn** | [Connect with me](http://linkedin.com/in/rayancmorais) |
+| **Email** | [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com) |
+
+---
+<p align="center">
+  <i>"I believe that great code should be invisible—it just works."</i>
+</p>
