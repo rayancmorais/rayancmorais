@@ -53,6 +53,4 @@ Gosto de atuar em todo o stack, especialmente onde o **design encontra a funcion
 | **Email** | [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com) |
 
 ---
-<p align="center">
-  <i>"I believe that great code should be invisible—it just works."</i>
-</p>
+
