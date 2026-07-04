@@ -1,20 +1,29 @@
-# Hey, I'm Rayan 👋
+# Hey there, I'm Rayan 👋
 
-I'm a full-stack developer from Juiz de Fora, Brazil. I got into tech through UX/UI design — and that background still shapes how I build things today. I care a lot about the details that most people don't notice: smooth interactions, clean architecture, and code that's actually maintainable six months later.
+I'm a full-stack developer from Juiz de Fora, Brazil. I got into tech through UX/UI design, and that background still shapes how I build things today. I care a lot about the details that most people don't notice: smooth interactions, clean architecture, and code that's actually maintainable six months later.
 
 Right now I'm working full-time at **Vasc-Review**, a medical education platform, while also running a few of my own projects on the side.
 
 ## 🛠️ What I work with
 
-On the front-end I spend most of my time with React, Next.js, React Native, TypeScript, Tailwind CSS and Styled Components. On the back-end I work with Node.js, NestJS, Express and Go. For data and infrastructure I use PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ, Docker and Railway. Day-to-day tooling includes ESLint, Prettier, Vitest, Jest, Husky and GitHub Actions.
+**Front-End:** React, Next.js, React Native, TypeScript, Tailwind CSS, Styled Components
+
+**Back-End:** Node.js, NestJS, Express, Go
+
+**Data & Infra:** PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ, Docker, Railway
+
+**Tooling:** ESLint, Prettier, Vitest, Jest, Husky, GitHub Actions
 
 ## 🚀 Things I've built
 
-**[CupomManiac](https://cupommaniac.com.br)** — An affiliate coupon aggregator I built from scratch. It pulls deals from multiple networks (Lomadee, Amazon, Afilio, Admitad), runs real-time search via Meilisearch, and handles background jobs through BullMQ workers. Stack: Next.js, Node.js, PostgreSQL, Redis — deployed on Railway.
+**[CupomManiac](https://cupommaniac.com.br)**
+Affiliate coupon aggregator integrating multiple networks (Lomadee, Amazon, Afilio, Admitad) with real-time search powered by Meilisearch and asynchronous job processing via BullMQ. Built with Next.js, Node.js, PostgreSQL and Redis, deployed on Railway.
 
-**[Lux Lab Brasil](https://luxlabbr.vercel.app)** — A dropshipping platform with Mercado Pago payments (Pix, Boleto, Cartão), an AI shopping assistant called Luna (Gemini API + SSE streaming), and multi-language support. Deployed on Vercel + AWS Lambda in São Paulo.
+**[Lux Lab Brasil](https://luxlabbr.vercel.app)**
+Multi-market dropshipping platform featuring Mercado Pago payment integration (Pix, Boleto, Cartão), an AI-powered shopping assistant (Gemini API with SSE streaming), and full multi-language support. Deployed on Vercel and AWS Lambda (sa-east-1).
 
-**[Crash Game — Jungle Gaming Challenge](https://github.com/rayancmorais)** — A real-time multiplayer Crash game I built as a technical challenge. NestJS + Bun + DDD + RabbitMQ + Keycloak + Kong + WebSocket + Next.js, with auto-cashout, Martingale auto-bet, a live leaderboard and visual bots.
+**[Crash Game](https://github.com/rayancmorais)**
+Real-time multiplayer Crash game developed as a full-stack technical challenge. Architecture built on NestJS, Bun, DDD, RabbitMQ, Keycloak, Kong and WebSocket, with features including auto-cashout, Martingale auto-bet, live leaderboard and visual bots.
 
 ## 📬 Let's talk
 
