@@ -1,32 +1,39 @@
 # Hey there, I'm Rayan 👋
 
-I'm a full-stack developer from Juiz de Fora, Brazil. I got into tech through UX/UI design, and that background still shapes how I build things today. I care a lot about the details that most people don't notice: smooth interactions, clean architecture, and code that's actually maintainable six months later.
+Full-stack developer from Juiz de Fora, Brazil. I came into software from an unusual direction — I worked in healthcare before this, and the habits stuck: rigid protocols, zero tolerance for error, and a reflex for edge cases nobody thought to check. That's the lens I bring to code.
 
-Right now I'm working full-time at **Vasc-Review**, a medical education platform, while also running a few of my own projects on the side.
+I build things that run in production, not just in localhost. Right now I'm working on **Vasc-Review**, a continuing medical education platform used by vascular surgeons (published on the App Store and Play Store), while shipping my own projects on the side.
 
 ## 🛠️ What I work with
 
 **Front-End:** React, Next.js, React Native, TypeScript, Tailwind CSS, Styled Components
 
-**Back-End:** Node.js, NestJS, Express, Go
+**Back-End:** Node.js, NestJS, Fastify, Express, Go
 
-**Data & Infra:** PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ, Docker, Railway
+**Data & Infra:** PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ, Meilisearch, Docker, AWS Lambda, Railway
 
-**Tooling:** ESLint, Prettier, Vitest, Jest, Husky, GitHub Actions
+**Practices:** DDD, Clean Architecture, TDD (Vitest/Jest), event-driven architecture, CI/CD with GitHub Actions
 
 ## 🚀 Things I've built
 
-**[CupomManiac](https://cupommaniac.com.br)**
-Affiliate coupon aggregator integrating multiple networks (Lomadee, Amazon, Afilio, Admitad) with real-time search powered by Meilisearch and asynchronous job processing via BullMQ. Built with Next.js, Node.js, PostgreSQL and Redis, deployed on Railway.
+**[CupomManiac](https://cupommaniac.com.br)** — *live in production*  
+Affiliate coupon platform for the Brazilian market, built from scratch to its own domain. Syncs thousands of coupons from 5 affiliate networks (Lomadee, Admitad, Awin, Amazon, Mercado Livre) through a common adapter interface, with real-time search via Meilisearch and async processing via BullMQ. Notable work: refactored an N+1 that was locking the database under load into batched upserts, and solved cross-origin cookie blocking between Railway and Vercel with server-side proxy routes.  
+`Next.js 15` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Redis` `BullMQ`
 
-**[Lux Lab Brasil](https://luxlabbr.vercel.app)**
-Multi-market dropshipping platform featuring Mercado Pago payment integration (Pix, Boleto, Cartão), an AI-powered shopping assistant (Gemini API with SSE streaming), and full multi-language support. Deployed on Vercel and AWS Lambda (sa-east-1).
+**[Crash Game](https://github.com/rayancmorais/fullstack-challengeRayancm)** — *technical challenge*  
+Real-time multiplayer crash game where services communicate exclusively over RabbitMQ — no direct HTTP between them, so the Wallet stays the single source of truth for balances. Domain layer is pure TypeScript (zero framework), covered by 91 unit tests and 11 E2E scenarios. Money handled as BigInt cents to eliminate floating-point drift, and crash points are provably fair via HMAC-SHA256.  
+`NestJS` `Bun` `DDD` `RabbitMQ` `Kong` `Keycloak` `WebSocket` `Docker`
 
-**[Crash Game](https://github.com/rayancmorais)**
-Real-time multiplayer Crash game developed as a full-stack technical challenge. Architecture built on NestJS, Bun, DDD, RabbitMQ, Keycloak, Kong and WebSocket, with features including auto-cashout, Martingale auto-bet, live leaderboard and visual bots.
+**Lux Lab Brasil** — *private repo, available on request*  
+Multi-market dropshipping platform (Brazil + EU) with geographic supplier routing behind a single interface, region-aware pricing (VAT per destination country), multi-provider OAuth2/OIDC with PKCE, and an AI shopping assistant streaming over SSE within Lambda's 29s connection ceiling.  
+`Go` `Gin` `MongoDB` `Next.js 15` `AWS Lambda` `Stripe` `MercadoPago`
+
+## 🔭 Currently building
+
+**NexusAI** — a distributed e-commerce platform with semantic search and real-time AI chat, built across Go, Node.js/Bun, Python and Next.js, with gRPC contracts managed by Buf and an OpenAPI-first workflow. I'm documenting the build publicly, phase by phase.
 
 ## 📬 Let's talk
 
-**Portfolio** — [rayancmorais.com.br](https://rayancmorais.com.br)  
-**LinkedIn** — [linkedin.com/in/rayancmorais](https://linkedin.com/in/rayancmorais)  
-**Email** — [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com)
+I'm open to full-stack opportunities — remote friendly, and I work in English (C1).
+
+**Portfolio** — [rayancmorais.com.br](https://rayancmorais.com.br)
