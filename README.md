@@ -6,13 +6,17 @@ I build things that run in production, not just in localhost. Right now I'm work
 
 ## 🛠️ What I work with
 
-**Front-End:** React, Next.js, React Native, TypeScript, Tailwind CSS, Styled Components
-
-**Back-End:** Node.js, NestJS, Fastify, Express, Go
-
-**Data & Infra:** PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ, Meilisearch, Docker, AWS Lambda, Railway
-
-**Practices:** DDD, Clean Architecture, TDD (Vitest/Jest), event-driven architecture, CI/CD with GitHub Actions
+**• Languages:** TypeScript, JavaScript, Go, SQL, Python
+**• Backend & AI:** Node.js, Fas@fy, NestJS, Express, Go/Gin, Prisma ORM, BullMQ, RabbitMQ, Redis, Stripe, Anthropic
+Claude API
+**• Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Meilisearch
+**• Cloud & DevOps:** AWS Lambda, AWS SAM, AWS Secrets Manager, Docker, Kong API Gateway, GitHub Ac@ons, CI/CD
+(web and mobile / Google Play), Vercel, Railway, New Relic
+**• Frontend & Mobile:** Next.js, React, React Na@ve, Redux Toolkit / RTK Query, Reanimated, Skia, Tailwind CSS, Framer
+Mo@on, Radix UI
+**• Architecture & Quality:** SOLID, Domain-Driven Design (DDD), Clean Architecture, Atomic Design, Microservices,
+Serverless, TDD, Vitest, Jest, React Tes@ng Library, MSW, Playwright, muta@on tes@ng
+**• AI-Assisted Development:** Claude Code, Claude Design, architecture guardrails for agents, phased planning
 
 ## 🚀 Things I've built
 
