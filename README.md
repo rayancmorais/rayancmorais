@@ -6,17 +6,13 @@ I build things that run in production, not just in localhost. Right now I'm work
 
 ## 🛠️ What I work with
 
-**• Languages:** TypeScript, JavaScript, Go, SQL, Python
-**• Backend & AI:** Node.js, Fas@fy, NestJS, Express, Go/Gin, Prisma ORM, BullMQ, RabbitMQ, Redis, Stripe, Anthropic
-Claude API
-**• Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Meilisearch
-**• Cloud & DevOps:** AWS Lambda, AWS SAM, AWS Secrets Manager, Docker, Kong API Gateway, GitHub Ac@ons, CI/CD
-(web and mobile / Google Play), Vercel, Railway, New Relic
-**• Frontend & Mobile:** Next.js, React, React Na@ve, Redux Toolkit / RTK Query, Reanimated, Skia, Tailwind CSS, Framer
-Mo@on, Radix UI
-**• Architecture & Quality:** SOLID, Domain-Driven Design (DDD), Clean Architecture, Atomic Design, Microservices,
-Serverless, TDD, Vitest, Jest, React Tes@ng Library, MSW, Playwright, muta@on tes@ng
-**• AI-Assisted Development:** Claude Code, Claude Design, architecture guardrails for agents, phased planning
+* **Languages:** TypeScript, JavaScript, Go, SQL, Python
+* **Backend & AI:** Node.js, Fastify, NestJS, Express, Go/Gin, Prisma ORM, BullMQ, RabbitMQ, Redis, Stripe, Anthropic Claude API
+* **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Meilisearch
+* **Cloud & DevOps:** AWS Lambda, AWS SAM, AWS Secrets Manager, Docker, Kong API Gateway, GitHub Actions, CI/CD (web and mobile / Google Play), Vercel, Railway, New Relic
+* **Frontend & Mobile:** Next.js, React, React Native, Redux Toolkit / RTK Query, Reanimated, Skia, Tailwind CSS, Framer Motion, Radix UI
+* **Architecture & Quality:** SOLID, Domain-Driven Design (DDD), Clean Architecture, Atomic Design, Microservices, Serverless, TDD, Vitest, Jest, React Testing Library, MSW, Playwright, mutation testing
+* **AI-Assisted Development:** Claude Code, Claude Design, architecture guardrails for agents, phased planning
 
 ## 🚀 Things I've built
 
@@ -40,7 +36,6 @@ Multi-market e-commerce platform for Brazil and the EU. A single `Supplier` inte
 
 I'm open to full-stack opportunities — remote friendly, and I work in English (C1).
 
-**Portfolio** — [rayancmorais.com.br](https://rayancmorais.com.br)  
-**LinkedIn** — [linkedin.com/in/rayancmorais](https://linkedin.com/in/rayancmorais)  
-**Email** — [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com)
-
+* **Portfolio** — [rayancmorais.com.br](https://rayancmorais.com.br)
+* **LinkedIn** — [linkedin.com/in/rayancmorais](https://linkedin.com/in/rayancmorais)
+* **Email** — [rayan_cm2021@icloud.com](mailto:rayan_cm2021@icloud.com)
